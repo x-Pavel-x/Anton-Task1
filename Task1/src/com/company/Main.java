@@ -26,9 +26,7 @@ public class Main {
         int b=nums[len-1];
         System.out.println(a);
         for (i=0; i<len; i++){
-            System.out.print(nums[i] + ", ");
-	//System.out.println("G: " +len +' ');
-
-
-    };
+            System.out.print(nums[i] + " ");
+        }
+    }
 }
